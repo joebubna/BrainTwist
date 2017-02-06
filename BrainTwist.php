@@ -1,3 +1,4 @@
+<?php
 /**
  *  Turn on the showDebug mode to get a friendly output format for 
  *  the execution when viewing in a web browser.
